@@ -1,0 +1,7 @@
+same email address warning,
+logout
+second login modal password
+mobile place order logout
+admin tables
+change password
+not login
